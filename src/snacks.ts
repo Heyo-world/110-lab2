@@ -1,6 +1,6 @@
 const snacks: string[] = ['Lays chips', 'Popcorn', 'Doritos'];
 
-function print(snack: string){
+export function print(snack: string){
 	console.log(snack);
 }
 
