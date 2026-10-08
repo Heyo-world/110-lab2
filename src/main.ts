@@ -1,13 +1,11 @@
 import { print_snacks } from "./snacks";
-
+import {animation} from "./animation.ts"
 print_snacks(["snack1", "snack2"]);
 //from snacks.ts
 import{print} from "./snacks.ts";
 const snacks_Tia: string[] = ['Snack 1', 'Snack 2', 'Snack 3'];
 
-
-
-//from snacks.ts
+animation('add-snacks-Tia2');
 for(const snack of snacks_Tia){
 	print(snack); 
 }
