@@ -5,5 +5,8 @@
   "scripts": {
     "test": "vitest run",
     "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
   }
 }
