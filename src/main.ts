@@ -1,7 +1,6 @@
-import { print_snacks, print } from "./snacks.ts";
-import { animation } from "./animation.ts";
 
-animation("Snacks");
+import { print_snacks, print} from "./snacks";
+import {animation} from "./animation.ts"
 
 print_snacks(["snack1", "snack2"]);
 //from snacks.ts
