@@ -1,4 +1,6 @@
-import { print_snacks } from "./snacks";
+
+import { print_snacks, print} from "./snacks";
+import {animation} from "./animation.ts"
 
 print_snacks(["snack1", "snack2"]);
 //from snacks.ts
