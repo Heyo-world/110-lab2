@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "test": "vitest run"
+    "test": "vitest run"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +17,8 @@
   },
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
   }
 }
