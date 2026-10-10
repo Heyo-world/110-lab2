@@ -8,9 +8,7 @@ print_snacks(["snack1", "snack2"]);
 
 const snacks_Tia: string[] = ['Snack 1', 'Snack 2', 'Snack 3'];
 
-
-
-//from snacks.ts
+animation('add-snacks-Tia2');
 for(const snack of snacks_Tia){
 	print(snack); 
 }
