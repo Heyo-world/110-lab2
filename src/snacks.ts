@@ -1,5 +1,5 @@
 
-export let snacks_Jose: string[] = ["m&m's", "oreos", "skittles", "french bread", "chips"]; 
+export let snacks_Jose: string[] = ["oreos", "chips"]; 
 
 const snacks_Tia: string[] = ['Lays chips', 'Popcorn', 'Doritos',  'New snack A', 'New snack B'];
 
