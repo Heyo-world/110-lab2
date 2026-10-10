@@ -1,10 +1,11 @@
 
-let snacks_Jose: string[] = ["m&m's", "oreos", "skittles", "french bread"]; 
+export let snacks_Jose: string[] = ["m&m's", "oreos", "skittles", "french bread", "chips"]; 
 
 const snacks_Tia: string[] = ['Lays chips', 'Popcorn', 'Doritos',  'New snack A', 'New snack B'];
 
 export function print_snacks(snacks: string[]): void {
 	console.log(snacks);
+}
 export function print(snack: string){
 	console.log(snack);
 }
