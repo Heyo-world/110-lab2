@@ -1,7 +1,7 @@
 
 let snacks_Jose: string[] = ["m&m's", "oreos", "skittles", "french bread"]; 
 
-export const snacks_Tia: string[] = ['Lays chips', 'Popcorn', 'Doritos',  'New snack A', 'New snack B'];
+export const snacks_Tia: string[] = ['Lays chips', 'Popcorn', 'Doritos',  'New snack A', 'New snack B', 'chips'];
 
 export function print_snacks(snacks: string[]): void {
 	console.log(snacks);
